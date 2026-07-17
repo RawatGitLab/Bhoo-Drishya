@@ -1,0 +1,10 @@
+{
+  "name": "Admin User Authentication Drishya",
+  "description": "An interactive map application where you can upload photos with geo-coordinates and visualize them on multiple base layers, with secure backend storage using MongoDB GridFS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
